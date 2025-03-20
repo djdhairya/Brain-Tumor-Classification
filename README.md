@@ -116,3 +116,5 @@ The model achieves excellent classification accuracy on both training and testin
 
 ---
 
+![Screenshot 2025-03-20 012825](https://github.com/user-attachments/assets/38d0eaa2-9156-44cc-84da-43b11beadcbb) ![Screenshot 2025-03-20 110220](https://github.com/user-attachments/assets/9dd7d779-6299-4fd3-81c6-52b12bbc609a)
+
